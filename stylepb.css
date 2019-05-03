@@ -1,0 +1,28 @@
+/*CSS bootstrap*/
+
+nav{
+	background-color: pink;
+	color: black;
+	display: flex;
+	list-style-type: none;
+	justify-content: space-between;
+	align-items: center;
+
+
+}
+
+nav #nav-item nav-link{
+list-style-type: none;
+margin: 0px;
+padding: 0px;
+display: flex;
+background: linear-gradient(to top,rgba() );
+}
+
+.jumbotron{
+	background-image: url(ships.jpg);
+}
+
+
+
+}
